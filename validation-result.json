@@ -1,9 +1,0 @@
-{
-  "unitTests": "11 passed",
-  "uncleanedSource": "fails with EDITOR.Font conflict; original unchanged",
-  "cleanupPatch": "git apply --check and git apply passed",
-  "sourceEntriesAfterCleanup": 3916,
-  "matchesUserVerifiedFix": true,
-  "workflowChecks": "test and build commands present; old PowerShell conversion removed",
-  "githubActionsExecution": "not run; no release uploaded"
-}
