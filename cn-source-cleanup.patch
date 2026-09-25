@@ -1,0 +1,10 @@
+--- a/cn.json
++++ b/cn.json
+@@ -1454,7 +1454,6 @@
+ "EDITOR.EditingHTMLWarning": "另一个用户也编辑了同一文档。你对 HTML 所做的任何更改都将删除他们的更改，因此无法保存。",
+ "EDITOR.EmbedFailed": "无法嵌入“{uuid}”中的内容。",
+ "EDITOR.EnableHighlightDocumentMatches": "开关选中文字时自动匹配内容链接功能",
+-"EDITOR.Font": "字体",
+ "EDITOR.Format": "格式",
+ "EDITOR.Heading": "标题 {level}",
+ "EDITOR.Headings": "标题",
